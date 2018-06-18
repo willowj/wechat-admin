@@ -2,6 +2,7 @@ Flask==0.12.1
 Flask-SQLAlchemy==2.2
 Flask-Migrate==2.0.3
 Flask-SSE==0.2.1
+Kombu==4.1.0
 celery==4.0.2
 PyMySQL==0.7.11
 gunicorn==19.7.1
